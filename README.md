@@ -53,6 +53,7 @@ CommonSourceIPs
   	process_num	 - number of concurrent processes, optional
 
  
- Bo Yang, bonny95@gmail.com, 07/03/2014
+ Bo Yang, bonny95@gmail.com, 07/03/2014.
+ 
  For more articles, please access [my blog](http://bo-yang.github.io).
  
